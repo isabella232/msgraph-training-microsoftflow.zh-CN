@@ -4,7 +4,7 @@
 
 打开浏览器并导航到[Azure Active Directory 管理中心](https://aad.portal.azure.com)。 在左侧导航菜单中选择 " **Azure Active Directory** " 链接, 然后在**Azure active directory**边栏的 "**管理**" 部分中选择 "**应用注册**" 条目。
 
-![azure active directory 中的 azure active directory 刀片的屏幕截图管理中心](./images/app-reg1.png)
+![Azure active Directory 中的 Azure Active Directory 刀片的屏幕截图管理中心](./images/app-reg1.png)
 
 选择 "**应用**注册" 边栏选项卡顶部的 "**新建应用程序注册**" 菜单项。
 
@@ -37,4 +37,4 @@
 > [!IMPORTANT]
 > 此步骤非常关键, 因为关闭此边栏后将无法访问密钥。 将此项保存到文本编辑器中, 以便在即将进行的练习中使用。
 
-若要启用对通过 Microsoft Graph (包括团队属性) 访问的其他服务的管理, 需要选择其他更合适的范围以启用管理特定服务。 例如, 若要扩展我们的解决方案以启用创建 OneNote 笔记本或 Planner 计划、存储桶和任务, 需要为相关 api 添加所需的权限范围。
+若要启用对通过 Microsoft Graph (包括团队属性) 访问的其他服务的管理, 需要选择其他更合适的范围以启用管理特定服务。 例如, 若要扩展我们的解决方案以启用创建 OneNote 笔记本或 Planner 计划、存储桶和任务, 需要为相关 Api 添加所需的权限范围。

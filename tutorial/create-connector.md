@@ -39,4 +39,4 @@
 
 返回到在上一练习中创建的[Azure 门户](https://aad.portal.azure.com)中已注册的应用程序。 选择 "**设置**" 边栏选项卡中的 "**答复 url** "。 添加作为附加**回复 url**复制的**重定向 url** 。 在 Azure Active Directory 门户中保存应用程序。
 
-![Azure 门户中答复 url 刀片的屏幕截图](./images/flow-conn6.png)
+![Azure 门户中答复 Url 刀片的屏幕截图](./images/flow-conn6.png)

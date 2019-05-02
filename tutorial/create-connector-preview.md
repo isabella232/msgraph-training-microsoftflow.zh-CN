@@ -39,4 +39,4 @@
 
 返回到在上一练习中创建的[Azure 门户](https://aad.portal.azure.com)中已注册的应用程序。 选择**MS Graph 批处理应用**边栏上的**概述**, 然后选择 "**添加重定向 URI**"。 在 "**重定向 URI** " 字段中添加已复制的**重定向 URL** , 然后选择 "**保存**"。
 
-![Azure 门户中答复 url 刀片的屏幕截图](./images/flow-conn-preview6.png)
+![Azure 门户中答复 Url 刀片的屏幕截图](./images/flow-conn-preview6.png)

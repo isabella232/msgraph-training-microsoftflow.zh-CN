@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD002 MD041 -->
 
-在创建使用新连接器的流之前, 请使用[microsoft graph 资源管理器](https://developer.microsoft.com/graph/graph-explorer)在 microsoft graph 中发现 JSON 批处理的一些功能和功能。
+在创建使用新连接器的流之前, 请使用[Microsoft Graph 资源管理器](https://developer.microsoft.com/graph/graph-explorer)在 microsoft graph 中发现 JSON 批处理的一些功能和功能。
 
 在浏览器中打开[Microsoft Graph 资源管理器](https://developer.microsoft.com/graph/graph-explorer)。 使用 Office 365 租户管理员帐户登录。 选择左侧导航窗格中的 "**显示更多示例**" 链接, 然后将 "**批处理**" 和 " **Microsoft 团队" (beta)** 的示例切换到 **"开**"。
 
@@ -8,7 +8,7 @@
 
 在左侧菜单中选择 "**执行并行获取**示例" 查询。 选择屏幕右上角的 "**运行查询**" 按钮。
 
-示例批处理操作批处理三个 http GET 请求, 并向`/v1.0/$batch` Graph 终结点发出单个 http POST。
+示例批处理操作批处理三个 HTTP GET 请求, 并向`/v1.0/$batch` Graph 终结点发出单个 http POST。
 
 ```json
 {
@@ -84,7 +84,7 @@
 }
 ```
 
-![选择了 v1.0 的 Graph 浏览器中批查询的屏幕截图](./images/graph-explore3.png)
+![选择了 v1。0的 Graph 浏览器中批查询的屏幕截图](./images/graph-explore3.png)
 
 现在, 使用版本选择器下拉箭头更改为`beta`终结点, 并执行完全相同的请求。
 
